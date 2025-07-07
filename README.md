@@ -4,23 +4,6 @@
 
 - 🌱 I’m currently learning FFmpeg
 
-## Languages
-
-<div>
-  <a href="https://www.rust-lang.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" />
-  </a>
-  <a href="https://rescript-lang.org/" target="_blank">
-    <img style="margin: 10px" src="https://rescript-lang.org/static/brand/rescript-brandmark.svg" alt="ReScript" height="45" />
-  </a>
-  <a href="https://developer.apple.com/swift/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="50" />
-  </a>
-  <a href="https://ocaml.org/" target="_blank">
-    <img style="margin: 10px" src="https://raw.githubusercontent.com/ocaml/ocaml-logo/master/Colour/SVG/colour-icon.svg" alt="OCaml" height="45" />
-  </a>
-</div>
-
 ## 3D Contrib
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
